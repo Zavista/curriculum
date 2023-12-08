@@ -1,4 +1,4 @@
-### Introduction
+### Testing For my Git Lesson
 
 This lesson will provide you with information on what React is, its brief history, and why we're choosing to cover it in our curriculum.
 
